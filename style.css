@@ -1,0 +1,57 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    background-color: #1f2937;
+    display: flex;
+
+}
+
+.header {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+
+
+ul {
+    font-size: 14px;
+    color: #e5e7eb;
+    list-style-type: none;
+    gap: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #f9faf8;
+}
+
+.section-1 {
+    background-color: #1f2937;
+}
+
+.hero-text {
+    font-size: 14px;
+    color: #e5e7eb;
+}
+
+.image {
+    color: #1f2937;
+    font-size: 14px;
+    width: 300px;
+    height: 150px;
+    background-color: #939799;
+
+}
+
+.button-1 {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 12px;
+}

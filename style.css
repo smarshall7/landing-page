@@ -24,6 +24,10 @@ ul {
     justify-content: space-between;
 }
 
+p {
+    font-size: 16px;
+}
+
 h1 {
     font-size: 40px;
     font-weight: 700;
@@ -71,4 +75,33 @@ figcaption {
 img {
     width: 100px;
     height: 100px;
+}
+
+.section-3 {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 22px;
+}
+
+.call-to-action {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.button-2 {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    padding: 8px 16px;
+    border-radius: 12px;
+}
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 16px;
 }

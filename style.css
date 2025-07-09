@@ -5,10 +5,13 @@
 nav {
     background-color: #1f2937;
     display: flex;
-
 }
 
-.header {
+.section-1 {
+    background-color: #1f2937;
+}
+
+.header-logo {
     font-size: 24px;
     color: #f9faf8;
 }
@@ -34,10 +37,6 @@ h1 {
     color: #f9faf8;
 }
 
-.section-1 {
-    background-color: #1f2937;
-}
-
 .hero-text {
     font-size: 14px;
     color: #e5e7eb;
@@ -60,16 +59,23 @@ h1 {
     border-radius: 12px;
 }
 
+.section-2 {
+    display: flex;
+}
+
 h2 {
     color: #1f2937;
     font-size: 30px;
     font-weight: 700;
+    text-align: center;
 
 }
 
-figcaption {
+figure {
     color: #1f2937;
     font-size: 14px;
+    text-align: center;
+
 }
 
 img {
